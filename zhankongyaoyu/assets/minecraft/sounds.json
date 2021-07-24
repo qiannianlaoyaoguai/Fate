@@ -1,0 +1,42 @@
+{
+  "Lobby": {
+    "sounds": [
+      "Lobby"
+    ]
+  },
+  "NumaNuma": {
+    "sounds": [
+      "NumaNuma"
+    ]
+  },
+  "Piano": {
+    "sounds": [
+      "Piano"
+    ]
+  },
+  "IPhone": {
+    "sounds": [
+      "IPhone"
+    ]
+  },
+  "NyanCat": {
+    "sounds": [
+      "NyanCat"
+    ]
+  },
+  "AfterSchoolSpecial": {
+    "sounds": [
+      "AfterSchoolSpecial"
+    ]
+  },
+  "WindowsXP": {
+    "sounds": [
+      "WindowsXP"
+    ]
+  },
+  "WindMill": {
+    "sounds": [
+      "WindMill"
+    ]
+  }
+}
